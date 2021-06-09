@@ -1,0 +1,42 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "其他",
+          "pathName": "pages/index/other",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "初始",
+          "pathName": "pages/index/init",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "测试",
+          "pathName": "pages/index/test",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "页面总结",
+          "pathName": "pages/index/page",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

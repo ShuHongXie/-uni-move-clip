@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "l-clipper": "/uni_modules/lime-clipper/components/lime-clipper/index"
+  }
+}
